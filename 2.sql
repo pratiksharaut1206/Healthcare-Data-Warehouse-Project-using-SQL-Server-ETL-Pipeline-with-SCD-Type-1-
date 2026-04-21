@@ -1,0 +1,1 @@
+SELECT * FROM HealthConnect_refined.dbo.process_log;

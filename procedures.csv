@@ -1,0 +1,301 @@
+procedure_id,encounter_id,procedure_description
+1,294,MRI
+2,199,Blood Test
+3,179,X-Ray
+4,153,Endoscopy
+5,220,X-Ray
+6,65,Physiotherapy
+7,368,Physiotherapy
+8,232,Physiotherapy
+9,331,Ultrasound
+10,88,Surgery
+11,86,Vaccination
+12,330,ECG
+13,183,Blood Test
+14,302,Surgery
+15,136,Endoscopy
+16,384,Endoscopy
+17,192,X-Ray
+18,232,X-Ray
+19,259,Vaccination
+20,223,ECG
+21,2,Physiotherapy
+22,384,Surgery
+23,187,Physiotherapy
+24,12,CT Scan
+25,23,Vaccination
+26,6,MRI
+27,290,CT Scan
+28,305,X-Ray
+29,85,CT Scan
+30,396,MRI
+31,191,ECG
+32,122,Endoscopy
+33,17,ECG
+34,133,Vaccination
+35,294,X-Ray
+36,300,Blood Test
+37,89,CT Scan
+38,179,Blood Test
+39,127,Blood Test
+40,89,X-Ray
+41,86,Blood Test
+42,184,MRI
+43,21,CT Scan
+44,192,Ultrasound
+45,177,X-Ray
+46,59,Endoscopy
+47,374,Blood Test
+48,173,ECG
+49,169,X-Ray
+50,116,Physiotherapy
+51,298,Vaccination
+52,284,Vaccination
+53,146,Blood Test
+54,320,Blood Test
+55,387,Blood Test
+56,99,CT Scan
+57,151,Blood Test
+58,202,CT Scan
+59,304,Physiotherapy
+60,68,X-Ray
+61,276,X-Ray
+62,178,Endoscopy
+63,383,Vaccination
+64,331,Blood Test
+65,63,CT Scan
+66,138,ECG
+67,47,CT Scan
+68,297,X-Ray
+69,228,Ultrasound
+70,385,Endoscopy
+71,202,Ultrasound
+72,314,Endoscopy
+73,315,CT Scan
+74,29,MRI
+75,74,Blood Test
+76,255,Physiotherapy
+77,102,MRI
+78,247,Surgery
+79,159,Endoscopy
+80,191,ECG
+81,82,MRI
+82,8,Physiotherapy
+83,94,Endoscopy
+84,397,ECG
+85,329,MRI
+86,290,Blood Test
+87,230,Ultrasound
+88,319,MRI
+89,301,CT Scan
+90,93,Physiotherapy
+91,229,MRI
+92,360,Blood Test
+93,52,Surgery
+94,191,Blood Test
+95,370,Physiotherapy
+96,66,Physiotherapy
+97,141,Surgery
+98,164,CT Scan
+99,342,Vaccination
+100,323,Physiotherapy
+101,129,Physiotherapy
+102,53,CT Scan
+103,360,X-Ray
+104,318,Physiotherapy
+105,62,Surgery
+106,393,Blood Test
+107,14,X-Ray
+108,293,Endoscopy
+109,82,Vaccination
+110,138,Ultrasound
+111,71,ECG
+112,32,Blood Test
+113,86,MRI
+114,33,Ultrasound
+115,354,Blood Test
+116,170,Ultrasound
+117,6,Ultrasound
+118,49,ECG
+119,108,CT Scan
+120,52,Endoscopy
+121,328,MRI
+122,154,Blood Test
+123,342,X-Ray
+124,265,Surgery
+125,249,Endoscopy
+126,237,CT Scan
+127,134,Surgery
+128,310,CT Scan
+129,192,ECG
+130,68,CT Scan
+131,48,Vaccination
+132,280,Blood Test
+133,363,ECG
+134,322,Ultrasound
+135,359,Vaccination
+136,57,Endoscopy
+137,93,X-Ray
+138,155,Vaccination
+139,248,Surgery
+140,22,Physiotherapy
+141,253,Physiotherapy
+142,295,Blood Test
+143,107,Blood Test
+144,388,CT Scan
+145,302,Endoscopy
+146,286,Physiotherapy
+147,182,MRI
+148,184,Endoscopy
+149,30,CT Scan
+150,175,Surgery
+151,367,Vaccination
+152,341,ECG
+153,222,ECG
+154,30,Vaccination
+155,171,Vaccination
+156,184,Vaccination
+157,272,Blood Test
+158,379,Vaccination
+159,88,Ultrasound
+160,359,Physiotherapy
+161,364,Surgery
+162,70,Physiotherapy
+163,89,X-Ray
+164,379,Vaccination
+165,137,Physiotherapy
+166,247,CT Scan
+167,338,Endoscopy
+168,399,CT Scan
+169,186,ECG
+170,111,Ultrasound
+171,378,Ultrasound
+172,42,Endoscopy
+173,201,CT Scan
+174,285,CT Scan
+175,89,CT Scan
+176,180,X-Ray
+177,387,MRI
+178,274,CT Scan
+179,181,Physiotherapy
+180,87,ECG
+181,229,CT Scan
+182,283,Physiotherapy
+183,97,Endoscopy
+184,390,ECG
+185,93,X-Ray
+186,47,CT Scan
+187,84,Blood Test
+188,141,MRI
+189,148,Endoscopy
+190,294,CT Scan
+191,305,X-Ray
+192,7,Endoscopy
+193,360,Physiotherapy
+194,202,CT Scan
+195,356,Surgery
+196,21,CT Scan
+197,210,Physiotherapy
+198,1,ECG
+199,176,X-Ray
+200,298,Ultrasound
+201,221,Blood Test
+202,95,MRI
+203,245,ECG
+204,332,X-Ray
+205,10,Blood Test
+206,315,MRI
+207,26,MRI
+208,295,Blood Test
+209,126,Ultrasound
+210,391,Blood Test
+211,276,Endoscopy
+212,91,CT Scan
+213,83,ECG
+214,238,MRI
+215,45,Endoscopy
+216,114,Physiotherapy
+217,3,X-Ray
+218,215,X-Ray
+219,271,CT Scan
+220,237,Surgery
+221,338,X-Ray
+222,165,Physiotherapy
+223,144,Physiotherapy
+224,57,Physiotherapy
+225,29,Surgery
+226,224,CT Scan
+227,201,ECG
+228,112,Vaccination
+229,366,Ultrasound
+230,6,X-Ray
+231,294,Ultrasound
+232,117,Surgery
+233,89,Blood Test
+234,139,Physiotherapy
+235,47,Surgery
+236,218,CT Scan
+237,115,MRI
+238,106,Blood Test
+239,211,MRI
+240,7,Endoscopy
+241,133,ECG
+242,365,MRI
+243,223,ECG
+244,71,Blood Test
+245,367,MRI
+246,200,Ultrasound
+247,142,ECG
+248,60,Blood Test
+249,236,CT Scan
+250,238,Surgery
+251,338,Physiotherapy
+252,268,Ultrasound
+253,245,Physiotherapy
+254,386,X-Ray
+255,217,Blood Test
+256,129,Endoscopy
+257,150,CT Scan
+258,320,X-Ray
+259,143,Physiotherapy
+260,36,Surgery
+261,168,Ultrasound
+262,52,Vaccination
+263,282,Surgery
+264,11,MRI
+265,254,Endoscopy
+266,316,Endoscopy
+267,97,CT Scan
+268,154,CT Scan
+269,22,CT Scan
+270,147,Vaccination
+271,113,Surgery
+272,158,ECG
+273,396,ECG
+274,40,Surgery
+275,87,Blood Test
+276,138,Ultrasound
+277,220,Ultrasound
+278,101,Vaccination
+279,200,Endoscopy
+280,131,Surgery
+281,292,X-Ray
+282,85,Ultrasound
+283,151,Vaccination
+284,190,Blood Test
+285,194,CT Scan
+286,215,Vaccination
+287,291,X-Ray
+288,144,Surgery
+289,89,Blood Test
+290,265,Physiotherapy
+291,376,ECG
+292,33,X-Ray
+293,2,Endoscopy
+294,174,Blood Test
+295,257,Ultrasound
+296,321,Ultrasound
+297,247,ECG
+298,90,MRI
+299,201,ECG
+300,121,Ultrasound

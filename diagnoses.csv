@@ -1,0 +1,451 @@
+diagnosis_id,encounter_id,diagnosis_description,is_primary
+1,64,Diabetes,0
+2,343,Arthritis,0
+3,70,Heart Disease,0
+4,5,Flu,0
+5,250,Migraine,0
+6,217,Asthma,0
+7,135,Flu,1
+8,233,Hypertension,0
+9,304,Back Pain,0
+10,12,Pneumonia,1
+11,295,Diabetes,1
+12,254,Migraine,1
+13,356,Pneumonia,0
+14,292,Asthma,0
+15,259,Arthritis,1
+16,315,Arthritis,1
+17,392,Flu,1
+18,387,Back Pain,0
+19,362,Covid-19,1
+20,276,Heart Disease,0
+21,252,Hypertension,1
+22,137,Covid-19,0
+23,329,Migraine,0
+24,55,Migraine,1
+25,398,Diabetes,0
+26,157,Covid-19,0
+27,260,Heart Disease,0
+28,281,Heart Disease,1
+29,334,Back Pain,0
+30,375,Covid-19,0
+31,208,Flu,1
+32,231,Diabetes,1
+33,49,Covid-19,0
+34,310,Diabetes,0
+35,179,Covid-19,1
+36,12,Asthma,0
+37,203,Asthma,1
+38,136,Asthma,0
+39,135,Hypertension,0
+40,120,Hypertension,0
+41,371,Back Pain,1
+42,237,Asthma,0
+43,138,Flu,0
+44,11,Diabetes,1
+45,354,Pneumonia,1
+46,52,Pneumonia,0
+47,82,Flu,1
+48,400,Covid-19,0
+49,31,Pneumonia,1
+50,366,Pneumonia,1
+51,51,Asthma,0
+52,385,Flu,1
+53,15,Pneumonia,1
+54,78,Migraine,1
+55,295,Migraine,0
+56,94,Asthma,1
+57,41,Heart Disease,1
+58,74,Asthma,1
+59,8,Flu,0
+60,89,Migraine,0
+61,56,Arthritis,0
+62,19,Covid-19,1
+63,196,Arthritis,1
+64,51,Migraine,0
+65,26,Heart Disease,0
+66,77,Arthritis,1
+67,230,Asthma,0
+68,78,Diabetes,0
+69,305,Back Pain,0
+70,201,Migraine,0
+71,36,Pneumonia,1
+72,101,Migraine,0
+73,6,Back Pain,1
+74,244,Pneumonia,1
+75,16,Diabetes,0
+76,254,Covid-19,0
+77,171,Pneumonia,0
+78,14,Heart Disease,0
+79,316,Heart Disease,0
+80,98,Diabetes,1
+81,88,Asthma,0
+82,56,Covid-19,1
+83,290,Diabetes,1
+84,39,Migraine,1
+85,73,Asthma,0
+86,13,Flu,1
+87,364,Flu,1
+88,58,Heart Disease,0
+89,292,Asthma,0
+90,243,Diabetes,1
+91,132,Flu,0
+92,209,Diabetes,0
+93,116,Flu,1
+94,68,Asthma,1
+95,74,Hypertension,1
+96,8,Asthma,1
+97,93,Covid-19,1
+98,387,Hypertension,0
+99,376,Diabetes,1
+100,157,Heart Disease,1
+101,93,Migraine,0
+102,107,Asthma,1
+103,329,Back Pain,1
+104,49,Covid-19,0
+105,241,Migraine,0
+106,334,Heart Disease,1
+107,369,Arthritis,0
+108,347,Asthma,1
+109,177,Back Pain,1
+110,58,Migraine,0
+111,68,Hypertension,0
+112,295,Hypertension,1
+113,275,Pneumonia,0
+114,88,Migraine,1
+115,388,Flu,1
+116,131,Heart Disease,1
+117,264,Migraine,0
+118,110,Heart Disease,1
+119,31,Diabetes,1
+120,160,Heart Disease,1
+121,13,Arthritis,0
+122,225,Arthritis,0
+123,290,Hypertension,0
+124,252,Flu,0
+125,44,Migraine,1
+126,23,Diabetes,1
+127,293,Arthritis,0
+128,202,Pneumonia,0
+129,102,Back Pain,0
+130,143,Arthritis,1
+131,262,Migraine,1
+132,230,Diabetes,0
+133,61,Covid-19,1
+134,164,Flu,1
+135,96,Asthma,0
+136,87,Hypertension,0
+137,103,Heart Disease,0
+138,8,Back Pain,1
+139,1,Covid-19,0
+140,2,Diabetes,0
+141,10,Arthritis,1
+142,128,Flu,1
+143,233,Covid-19,0
+144,314,Diabetes,0
+145,265,Arthritis,0
+146,63,Flu,0
+147,208,Diabetes,0
+148,297,Hypertension,1
+149,291,Asthma,0
+150,72,Heart Disease,0
+151,234,Pneumonia,1
+152,379,Pneumonia,0
+153,199,Diabetes,1
+154,154,Arthritis,0
+155,281,Migraine,1
+156,133,Migraine,0
+157,21,Diabetes,0
+158,306,Pneumonia,1
+159,351,Covid-19,0
+160,223,Hypertension,0
+161,371,Covid-19,1
+162,43,Hypertension,0
+163,163,Hypertension,1
+164,356,Flu,1
+165,257,Asthma,1
+166,77,Diabetes,0
+167,326,Flu,0
+168,36,Back Pain,0
+169,166,Covid-19,1
+170,212,Migraine,0
+171,229,Back Pain,1
+172,295,Pneumonia,1
+173,146,Pneumonia,1
+174,208,Migraine,1
+175,76,Diabetes,0
+176,30,Arthritis,0
+177,137,Diabetes,0
+178,362,Arthritis,0
+179,353,Arthritis,0
+180,71,Covid-19,1
+181,306,Flu,0
+182,77,Migraine,0
+183,18,Arthritis,1
+184,257,Hypertension,1
+185,135,Back Pain,0
+186,240,Covid-19,1
+187,327,Covid-19,1
+188,160,Asthma,0
+189,177,Heart Disease,0
+190,5,Flu,0
+191,82,Pneumonia,0
+192,396,Arthritis,0
+193,283,Back Pain,0
+194,282,Hypertension,1
+195,36,Asthma,1
+196,178,Pneumonia,0
+197,147,Migraine,0
+198,17,Diabetes,1
+199,309,Asthma,0
+200,29,Flu,1
+201,210,Diabetes,0
+202,44,Asthma,0
+203,268,Asthma,1
+204,45,Diabetes,0
+205,371,Asthma,0
+206,66,Pneumonia,1
+207,36,Back Pain,0
+208,65,Diabetes,1
+209,273,Back Pain,0
+210,255,Migraine,1
+211,385,Back Pain,0
+212,396,Flu,1
+213,196,Diabetes,1
+214,336,Asthma,0
+215,226,Migraine,0
+216,325,Flu,1
+217,13,Hypertension,0
+218,171,Covid-19,0
+219,188,Heart Disease,0
+220,375,Flu,1
+221,77,Flu,0
+222,180,Arthritis,1
+223,43,Heart Disease,1
+224,274,Asthma,0
+225,163,Hypertension,0
+226,235,Asthma,1
+227,232,Diabetes,1
+228,215,Migraine,1
+229,358,Migraine,0
+230,67,Flu,0
+231,319,Heart Disease,1
+232,280,Heart Disease,1
+233,320,Flu,1
+234,240,Hypertension,0
+235,297,Diabetes,0
+236,186,Diabetes,0
+237,212,Hypertension,1
+238,257,Pneumonia,1
+239,155,Asthma,0
+240,121,Back Pain,1
+241,108,Flu,0
+242,158,Migraine,1
+243,281,Asthma,0
+244,78,Hypertension,1
+245,327,Migraine,1
+246,310,Back Pain,0
+247,183,Flu,0
+248,9,Migraine,1
+249,145,Hypertension,0
+250,52,Pneumonia,1
+251,397,Covid-19,0
+252,272,Asthma,1
+253,128,Diabetes,1
+254,120,Flu,0
+255,173,Pneumonia,1
+256,257,Arthritis,0
+257,371,Hypertension,1
+258,301,Migraine,0
+259,208,Migraine,1
+260,397,Diabetes,1
+261,51,Hypertension,0
+262,94,Hypertension,0
+263,190,Flu,0
+264,337,Flu,0
+265,372,Asthma,0
+266,16,Hypertension,1
+267,27,Flu,1
+268,3,Covid-19,1
+269,73,Hypertension,1
+270,28,Diabetes,0
+271,84,Diabetes,0
+272,54,Pneumonia,1
+273,282,Pneumonia,0
+274,42,Hypertension,1
+275,17,Diabetes,0
+276,153,Heart Disease,0
+277,124,Hypertension,1
+278,383,Hypertension,1
+279,391,Arthritis,1
+280,24,Hypertension,1
+281,80,Back Pain,0
+282,370,Arthritis,1
+283,51,Pneumonia,1
+284,326,Heart Disease,1
+285,187,Diabetes,0
+286,40,Covid-19,1
+287,175,Covid-19,1
+288,272,Asthma,0
+289,12,Heart Disease,0
+290,286,Arthritis,1
+291,268,Diabetes,1
+292,71,Heart Disease,0
+293,367,Covid-19,1
+294,58,Migraine,0
+295,219,Diabetes,0
+296,399,Pneumonia,1
+297,80,Asthma,0
+298,347,Pneumonia,1
+299,129,Heart Disease,1
+300,397,Hypertension,0
+301,249,Back Pain,0
+302,21,Heart Disease,1
+303,287,Hypertension,0
+304,94,Flu,0
+305,345,Arthritis,1
+306,181,Heart Disease,0
+307,8,Asthma,1
+308,343,Flu,0
+309,394,Asthma,0
+310,203,Asthma,0
+311,63,Migraine,0
+312,197,Pneumonia,1
+313,283,Back Pain,1
+314,133,Migraine,1
+315,11,Migraine,1
+316,350,Back Pain,0
+317,224,Pneumonia,0
+318,126,Pneumonia,1
+319,357,Asthma,0
+320,165,Diabetes,0
+321,209,Flu,0
+322,199,Hypertension,0
+323,246,Diabetes,0
+324,102,Back Pain,0
+325,333,Arthritis,1
+326,81,Flu,0
+327,360,Hypertension,0
+328,296,Asthma,1
+329,278,Flu,0
+330,113,Diabetes,0
+331,155,Hypertension,1
+332,308,Hypertension,0
+333,162,Covid-19,0
+334,76,Hypertension,1
+335,37,Migraine,1
+336,369,Back Pain,1
+337,358,Flu,1
+338,366,Covid-19,0
+339,342,Pneumonia,1
+340,120,Flu,0
+341,48,Diabetes,1
+342,9,Hypertension,1
+343,256,Migraine,1
+344,394,Asthma,1
+345,259,Pneumonia,1
+346,63,Back Pain,1
+347,127,Arthritis,1
+348,165,Hypertension,0
+349,280,Hypertension,1
+350,253,Back Pain,0
+351,69,Covid-19,1
+352,392,Pneumonia,1
+353,260,Hypertension,1
+354,186,Flu,0
+355,193,Diabetes,1
+356,83,Covid-19,1
+357,10,Asthma,1
+358,150,Migraine,1
+359,396,Flu,1
+360,396,Heart Disease,1
+361,73,Diabetes,1
+362,34,Heart Disease,0
+363,14,Heart Disease,0
+364,32,Arthritis,1
+365,63,Back Pain,1
+366,135,Heart Disease,0
+367,247,Diabetes,0
+368,51,Heart Disease,1
+369,158,Covid-19,0
+370,398,Asthma,1
+371,152,Hypertension,1
+372,258,Back Pain,1
+373,344,Asthma,1
+374,26,Asthma,0
+375,171,Flu,1
+376,351,Arthritis,1
+377,76,Heart Disease,0
+378,285,Arthritis,1
+379,24,Heart Disease,1
+380,220,Flu,0
+381,6,Heart Disease,1
+382,350,Covid-19,0
+383,245,Hypertension,0
+384,174,Covid-19,1
+385,244,Migraine,0
+386,184,Pneumonia,0
+387,112,Arthritis,1
+388,370,Arthritis,1
+389,311,Diabetes,1
+390,344,Diabetes,1
+391,265,Arthritis,1
+392,303,Covid-19,0
+393,30,Back Pain,1
+394,399,Covid-19,1
+395,4,Back Pain,0
+396,352,Arthritis,0
+397,243,Covid-19,1
+398,381,Hypertension,1
+399,306,Heart Disease,1
+400,132,Diabetes,1
+401,99,Back Pain,1
+402,231,Diabetes,1
+403,257,Pneumonia,1
+404,256,Back Pain,1
+405,131,Asthma,1
+406,40,Pneumonia,0
+407,124,Arthritis,1
+408,76,Asthma,1
+409,108,Migraine,0
+410,234,Covid-19,0
+411,31,Asthma,0
+412,330,Asthma,1
+413,53,Hypertension,0
+414,238,Back Pain,1
+415,219,Pneumonia,0
+416,252,Hypertension,1
+417,85,Diabetes,1
+418,81,Pneumonia,1
+419,59,Flu,1
+420,283,Migraine,0
+421,17,Back Pain,0
+422,54,Migraine,0
+423,107,Pneumonia,0
+424,96,Diabetes,0
+425,383,Migraine,0
+426,49,Flu,0
+427,348,Migraine,1
+428,254,Hypertension,0
+429,217,Arthritis,0
+430,37,Heart Disease,1
+431,389,Diabetes,0
+432,42,Migraine,0
+433,229,Diabetes,1
+434,351,Diabetes,0
+435,150,Pneumonia,0
+436,107,Asthma,1
+437,235,Asthma,1
+438,144,Migraine,0
+439,58,Heart Disease,0
+440,289,Flu,1
+441,222,Covid-19,0
+442,277,Covid-19,0
+443,380,Migraine,1
+444,134,Diabetes,0
+445,180,Pneumonia,1
+446,56,Pneumonia,0
+447,378,Pneumonia,0
+448,66,Heart Disease,0
+449,389,Heart Disease,0
+450,277,Hypertension,0

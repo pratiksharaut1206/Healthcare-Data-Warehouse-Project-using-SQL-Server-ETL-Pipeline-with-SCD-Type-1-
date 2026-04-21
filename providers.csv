@@ -1,0 +1,21 @@
+provider_id,first_name,last_name,specialty,npi
+1,Shayak,Garg,Neurology,NPI1001
+2,Zara,Lall,Pediatrics,NPI1002
+3,Prisha,Banerjee,Neurology,NPI1003
+4,Nayantara,Mangat,Orthopedics,NPI1004
+5,Zoya,Sani,Pediatrics,NPI1005
+6,Navya,Magar,Pediatrics,NPI1006
+7,Piya,Madan,Oncology,NPI1007
+8,Ojas,Shankar,Neurology,NPI1008
+9,Indrans,Vyas,Pediatrics,NPI1009
+10,Anaya,Chacko,General Medicine,NPI1010
+11,Aarna,Anne,Oncology,NPI1011
+12,Nishith,Chokshi,General Medicine,NPI1012
+13,Yuvraj ,Sharaf,Cardiology,NPI1013
+14,Abram,Sur,Pediatrics,NPI1014
+15,Anay,Sha,Dermatology,NPI1015
+16,Vedika,Rattan,General Medicine,NPI1016
+17,Prerak,Bains,Oncology,NPI1017
+18,Shanaya,Bandi,Cardiology,NPI1018
+19,Romil,Bhakta,Neurology,NPI1019
+20,Mamooty,Arya,Cardiology,NPI1020
